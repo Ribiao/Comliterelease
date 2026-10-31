@@ -8,7 +8,7 @@ Official website: [https://comlite.app/](https://comlite.app/)
 
 ## Download
 
-- **iOS (App Store):** [Comlite on the App Store](https://apps.apple.com/gb/app/comlite/id6762613820)
+- **iOS (App Store):** [Comlite on the App Store](https://apps.apple.com/us/app/comlite/id6762613820)
 - **Android (Google Play):** [Comlite on Google Play](https://play.google.com/store/apps/details?id=com.sewms.comliteandroid)
 
 > **Note:** The Android version is currently under review on Google Play. While the review is in progress, you can download the same in-review build early from our [Releases](../../releases) page (e.g. `Comlite2.3.3.apk`).
