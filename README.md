@@ -2,17 +2,24 @@
 
 Official release repository for the **Comlite** Android app.
 
+**Current version: v2.3.3**
+
+Official website: [https://comlite.app/](https://comlite.app/)
+
 ## Download
 
-Go to the [Releases](../../releases) page and download the latest APK (e.g. `Comlite2.3.3.apk`).
+- **iOS (App Store):** [Comlite on the App Store](https://apps.apple.com/gb/app/comlite/id6762613820)
+- **Android (Google Play):** [Comlite on Google Play](https://play.google.com/store/apps/details?id=com.sewms.comliteandroid)
 
-## Installation
+> **Note:** The Android version is currently under review on Google Play. While the review is in progress, you can download the same in-review build early from our [Releases](../../releases) page (e.g. `Comlite2.3.3.apk`).
 
-1. Download the APK file to your Android device.
-2. Open the file. If prompted, allow installation from this source (*Settings → Install unknown apps*).
+## Installation (Android APK)
+
+1. Download the latest APK from the [Releases](../../releases) page.
+2. Open the file on your Android device. If prompted, allow installation from this source (*Settings → Install unknown apps*).
 3. Follow the on-screen steps to complete the installation.
 
 ## Notes
 
-- This repository contains release packages only — no source code is published here.
-- Only download the APK from this repository's Releases page.
+- This repository publishes release packages only — no source code is hosted here.
+- Please only download the APK from this repository's Releases page or via the official store links above.
